@@ -1,0 +1,1 @@
+<?php echo "<p>Hello Word - Apache and php active</p>"; ?>
